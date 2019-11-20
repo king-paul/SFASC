@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activities>
+  <Monday>
+	<activity time="9:30am">
+	  <name>Swimming Lesson (children)</name>
+	  <instructor>Mandy</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="11:30am">
+	  <name>Swimming Lessons (adults)</name>
+	  <instructor>Trudy</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="4:00pm">
+	  <name>Swimming Lesson</name>
+	  <instructor>Max</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="6:00pm">
+	  <name>Aerobics</name>
+	  <instructor>Kate</instructor>
+	  <placesLeft>25</placesLeft>
+	</activity>		
+  </Monday>
+  <Tuesday>
+    <activity time="10:00am">
+      <name>Aerobics</name>
+      <instructor>Rebecca</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>
+    <activity time="12:00pm">
+      <name>Over 55 Fitness</name>
+      <instructor>robyn</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>
+    <activity time="2:00pm">
+      <name>Aerobics</name>
+      <instructor>Rebecca</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>
+    <activity time="7:00pm">
+      <name>Body Pump</name>
+      <instructor>David</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>
+  </Tuesday>
+  <Wednseday> 
+    <activity time="9:30am">
+	  <name>Swimming Lesson (children)</name>
+	  <instructor>Mandy</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="11:30am">
+	  <name>Swimming Lessons (adults)</name>
+	  <instructor>Trudy</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="4:00pm">
+	  <name>Swimming Lesson</name>
+	  <instructor>Max</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="6:00pm">
+	  <name>Aerobics</name>
+	  <instructor>Kate</instructor>
+	  <placesLeft>25</placesLeft>
+	</activity>
+    </Wednseday>
+  <Thursday>
+    <activity time="10:00am">
+      <name>Aerobics</name>
+      <instructor>Rebecca</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>
+    <activity time="12:30pm">
+      <name>Zumba</name>
+      <instructor>Lucy</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>
+    <activity time="2:00pm">
+      <name>Aerobics</name>
+      <instructor>Rebecca</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>
+    <activity time="7:00pm">
+      <name>Body Pump</name>
+      <instructor>David</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>
+  </Thursday>
+  <Friday>
+  	<activity time="9:30am">
+	  <name>Swimming Lesson (children)</name>
+	  <instructor>Mandy</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="11:30am">
+	  <name>Swimming Lessons (adults)</name>
+	  <instructor>Trudy</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="4:00pm">
+	  <name>Swimming Lesson</name>
+	  <instructor>Max</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="6:00pm">
+	  <name>Aerobics</name>
+	  <instructor>Kate</instructor>
+	  <placesLeft>25</placesLeft>
+	</activity>
+	<activity time="7:00pm">
+	  <name>Zumba</name>
+	  <instructor>Lucy</instructor>
+	  <placesLeft>25</placesLeft>
+	</activity>
+  </Friday>
+  <Saturday>
+    <activity time="11:30am">
+	  <name>Swimming Lessons (adults)</name>
+	  <instructor>Trudy</instructor>
+	  <placesLeft>10</placesLeft>
+	</activity>
+	<activity time="12:30am">
+      <name>Aerobics</name>
+      <instructor>Rebecca</instructor>
+      <placesLeft>25</placesLeft>
+    </activity>  
+  </Saturday>
+  <Sunday>
+  </Sunday>
+</activities>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<member>
+  <login>
+  	<username>paulking09@bigpond.com</username>
+    <password>c13e13da2073260c2194c15d782e86a9</password>
+  </login>
+  <firstname>Paul</firstname>
+  <lastname>King</lastname>
+  <gender>male</gender>
+  <DateOfBirth>31/3/1986</DateOfBirth>
+  <StreetAddress>28 Thomson st</StreetAddress>
+  <Town-Suburb>Essendon</Town-Suburb>
+  <postcode>3040</postcode>
+  <PhoneNumbers>
+	<home>93371536</home>
+	<mobile>0425757499</mobile>
+	<workPhone></workPhone>
+	<fax></fax>
+  </PhoneNumbers>
+  <membership>
+	<level>Bronze</level>
+	<duration>Annual</duration>
+  </membership>
+</member>

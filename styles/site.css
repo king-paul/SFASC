@@ -1,0 +1,381 @@
+/* CSS Document for website*/
+
+/***************
+* Div tag info *
+***************/
+
+#wrapper
+{		
+	width:960px;
+	margin-top:-13px;
+	margin-bottom:-13px;
+	margin-left:auto;
+	margin-right:auto;
+	border: 1px solid #000000;
+	border-top:none;
+}
+
+#header
+{
+	width:960px;
+	height:75px;
+	padding-top:5px;
+	background-color:#000033;
+}
+
+#logo
+{
+	width:273px;
+	position:relative;
+	float:left;
+	margin-right:10px;
+}
+
+#banner
+{
+	position:relative;
+	float:left;	
+	margin-left:10px;
+	height:74px;
+	/*background-image:url('images/banner-background.jpg')*/
+}
+
+#navbar
+{
+	width:960px;
+	height:32px;
+	position:relative;
+	float:left;	
+	background-image:url('../images/navbar.gif');
+}
+
+#login
+{
+	width:190px;
+	height:50px;
+	float:right;
+	background-color:#DDDDDD;
+	border: 2px solid #0000FF;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+#login #icon
+{
+	width:80;
+	height:74;
+	float:left;
+	/*backround-image: url("images/users.gif");*/
+}
+
+#login #info
+{
+	float:right;
+}
+
+.link
+{
+	height:32px;
+	width:130px;
+	float:left;
+	margin-left:20px;
+	margin-right:20px;
+	text-align:center;
+}
+
+.link:hover
+{
+	background-image:url("../images/navbar_rollover.gif");
+}
+
+.link span
+{
+	min-width:130px;
+	position:relative;
+	top:5px;
+	color:#FFFFFF;
+	font-family:Arial, sans-serif;
+	font-size:14pt;
+	font-wight:normal;
+}
+
+.link span:active
+{
+	color:#666666;
+}
+
+#main
+{
+	width:960px;
+	min-height:600px;
+	background-color:#FFFFFF;
+	overflow: auto;
+}
+
+#main_content_left
+{
+	width:600px;
+	position:relative;
+	float:left;
+	margin-top:15px;
+	margin-left:28px;
+}
+
+#main_content_right
+{
+	width:300px;
+	position:relative;
+	float:right;
+	margin-top:15px;
+	margin-right:10px;
+}
+
+#main_content_right li
+{
+	font-size:10pt;
+}
+
+#footer
+{
+	width:960px;
+	height:40px;
+	background-color:#333333;
+	margin-bottom:0px;
+}
+
+#footer_left
+{
+	float:left;
+	padding:10px;
+}
+#footer_right
+{
+	float:right;
+	padding:10px;
+}
+/*
+#form_area
+{
+	border: 1px solid #000000;
+	background-color:#CCCCCC;
+	padding:10px;
+	margin-bottom:10px;
+	font-family:Arial, sans-serif;
+	font-size:10pt;
+	font-weight:bold;
+}*/
+
+#form_area p
+{
+	font-family:Arial, sans-serif;
+	font-weight:normal;
+}
+
+.caption
+{
+	width:906px;
+	margin-top:15px;
+	margin-left:28px;	
+}
+
+.content_area
+{
+	margin:10px;
+}
+
+.column
+{
+	width:280px;
+	position:relative;
+	float:left;
+	/*margin:10px;*/
+	margin-left:28px;
+}
+
+.column p
+{
+	font-size:9pt;
+}
+
+#confirm_booking
+{
+	width:100%;
+	text-align:center;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+/******************
+* Page formatting *
+******************/
+
+body
+{
+	background-image:url('../images/page_background3.png');
+}
+
+p
+{
+	font-family:Arial, sans-serif;
+	padding-top:5px;
+	padding-bottom:10px;
+}
+
+a
+{
+	text-decoration:none;
+}
+a:hover
+{
+	text-decoration:underline;
+}
+
+#navbar a
+{
+	font-family:Arial, sans-serif;
+	font-size:14pt;
+	line-height:22px;
+}
+
+#navbar a:link, #navbar a:visited
+{
+	color:#FFFFFF;
+}
+
+#navbar a:hover
+{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+#footer a
+{
+	font-family:Arial, sans-serif;
+	color:#0066FF;
+}
+
+h1, h2, h3, h4, h5, h6, p
+{
+	margin-top:0px;
+	margin-bottom:3px;
+}
+
+h1
+{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:20pt;
+	color:#003399;
+}
+
+h2
+{
+	font-family:Arial;
+	font-size:12pt;
+}
+
+h3
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	font-size:20pt;
+	color:#CC9900;
+}
+
+h4
+{
+	font-family:Arial;
+	font-size:14pt;
+	color:#FFFFFF;
+}
+
+h5
+{
+	font-size:11pt;
+}
+
+li
+{
+	font-size:11pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+table li
+{
+	font-size:10pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.asterix
+{
+	font-size:large;
+	color:#FF0000;
+}
+
+.error
+{
+	font-size:small;
+	color:#FF0000;
+	visibility:hidden;
+}
+
+td
+{
+	/*width:300px;*/
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9pt;
+}
+
+/****************************
+ * Membership page css info *
+ ****************************/
+#membership_body
+{
+	font-family:Arial;
+	background-color:#FFFFFF;
+	margin:-9px;
+	padding:10px;
+	height:100%;	
+}
+
+p
+{
+font-size:10pt;
+}
+
+h1
+{
+	color:#003399;
+}
+
+.medal
+{
+	width:300px;
+}
+
+.cost
+{
+	float:right;
+	padding-top:40px;
+	margin-right:10px;
+}
+
+.gold, .silver, .bronze
+{
+	padding-top:10px;
+	padding-right:10px;
+	font-size:32pt;
+	float:left;
+}
+
+.gold
+{	
+	color:#D4AA00;
+}
+.silver
+{
+	color:#B3B3B3;
+}
+.bronze
+{
+	color:#A05A2C;
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+<member username="someone@somewhere.com"><email>someone@somewhere.com</email><password>25d55ad283aa400af464c76d713c07ad</password><firstname>user</firstname><lastname>lastname</lastname><gender>male</gender><DateOfBirth>1/1/1900</DateOfBirth><StreetAddress>streetname st</StreetAddress><Town-Suburb>surburbname</Town-Suburb><postcode>1000</postcode><PhoneNumbers><home/><mobile/><workPhone/><fax/></PhoneNumbers><membership><level>Bronze</level><duration>Annual</duration></membership><bookings/></member></members>

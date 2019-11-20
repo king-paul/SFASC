@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sitemap>
+  <page url="index.html">Home</page>
+  <page url="services.php">Services</page>
+  <page url="contact.php">Contact Us</page>
+</sitemap>

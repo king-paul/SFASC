@@ -1,0 +1,131 @@
+@CHARSET "ISO-8859-1";
+
+#reg_form {
+	/*margin: auto;*/
+	border: 1px solid #cccccc;
+	/*width: 500px;*/
+	height:100%;
+	background: #F1F3F5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size : 12px;
+	padding:15px;
+}
+
+.form_section
+{
+    /*margin-left: 10px;*/
+	border: 1px solid #cccccc;
+	/*width: 470px;*/
+	background-color: #E9ECEF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size : 12px;
+    padding:5px;
+    margin-bottom:10px;
+}
+/*
+table h5
+{
+	text-align:center;
+}*/
+
+#form_area {
+    margin: auto;
+	border: 1px solid #cccccc;
+	/*width: 600px;*/
+	height:100%;
+	background: #F1F3F5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size : 12px;
+}
+
+#form_area form {
+    margin-left: 80px;
+	border: 1px solid #cccccc;
+	width: 470px;
+	background: #E9ECEF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size : 12px;
+    padding:5px;
+    margin-bottom:10px;
+}
+
+#result {
+    margin-left: 80px;
+	border: 1px solid #cccccc;
+	width: 270px;
+	background: #E9ECEF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size : 12px;
+    padding:5px;
+    margin-bottom:10px;
+}
+
+.text {
+	border: 1px solid #cccccc;
+}
+
+.error {
+	border: 1px solid #ff0000;
+}
+
+/*
+input {
+    border: 0px solid #cccccc;
+}
+*/
+.values{
+  font-family: verdana;
+  font-weight:normal;
+  font-size : 10px;
+  align:top;
+  vertical-align:top;
+}
+
+.key{
+  font-family: verdana;
+  font-weight:bold;
+  font-size : 12px;
+  padding-bottom:15px;
+}
+
+
+.caption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    margin:10px;
+    font-size : 14pt;
+    color:#C64934;
+	text-align:center;
+}
+
+#icon{
+    width:80px;
+    height:80px;
+    float:left;
+    background-image:url(../images/users.gif);
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+#icon2{
+    width:80px;
+    height:80px;
+    float:left;
+    background-image:url(../images/info.gif);
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+
+#source{
+  text-align:right;
+  align:right;
+  padding-right:10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:normal;
+  font-size : 10px;
+  color:#666666;
+}
